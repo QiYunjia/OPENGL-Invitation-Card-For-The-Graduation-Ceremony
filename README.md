@@ -62,7 +62,7 @@ This interactive invitation card has several functions in different phases:
 1. Click the mouse right button to show Doctoral Cap 
 2. Click the mouse left button to show the Star 
 3. Click "o/O" to open the envelope.
-4. 
+
 ### Card Display Phase
 1. Click "f/F" to release balloons from the bottom of the card. 
 2.  Control the interactive paper airplane on the card using the keyboard: 
