@@ -12,44 +12,44 @@ and the Card Display Phase.
 
 ### Floating Envelope Phase 
 Feature list:  
- Background: gradient purple to amplify the spatial perception 
- Envelope: use a timer and glTranslatef() to translate the envelope up 
+- Background: gradient purple to amplify the spatial perception 
+- Envelope: use a timer and glTranslatef() to translate the envelope up 
 and down. The envelope can interact with the keyboard to rotate, pan, 
 and zoom in 
- Bubble: use a timer and change the radius to Enlarge/shrink the bubble 
- Use a timer and the function glRasterPos2f() to create chat messages 
+- Bubble: use a timer and change the radius to Enlarge/shrink the bubble 
+- Use a timer and the function glRasterPos2f() to create chat messages 
 that appear like bullets. Parameters can be adjusted to control the 
 speed of the bullet chat. 
- Falling star: Draw a pentagram using geometric creation and rotation, 
+- Falling star: Draw a pentagram using geometric creation and rotation, 
 generate random numbers to randomly generate the stars, and use 
 translation transformation to make them fall
 ### The Envelope Phase
 Feature list:  
- Envelope: The envelope can be opened on both sides by translation 
- Star: The stars appear based on the coordinate position of the 
+- Envelope: The envelope can be opened on both sides by translation 
+- Star: The stars appear based on the coordinate position of the 
 interaction with the left mouse button 
- Doctoral Cap: The Doctoral Cap appears based on the coordinate 
+- Doctoral Cap: The Doctoral Cap appears based on the coordinate 
 position of the interaction with the right mouse button 
 ### Card Display Phase
 Feature list:  
- Lightboard: The lightboard consists of five quadrilateral bases of 
+- Lightboard: The lightboard consists of five quadrilateral bases of 
 different colors, "XJTLU" letter bulbs, and circular bulbs. By using a 
 timer, it continuously changes between the illuminated and off states 
- Paper flight: There are two types of paper airplanes: non-interactive 
+- Paper flight: There are two types of paper airplanes: non-interactive 
 and interactive. Non-interactive airplanes fly towards the lower left 
 direction at different speeds and slopes. Interactive airplanes can be 
 controlled in terms of their movement using keyboard interactions. 
 When moving to the left, they are affected by gravity and will descend. 
- Bubbles of different campuses: There are a total of three bubbles. The 
+- Bubbles of different campuses: There are a total of three bubbles. The 
 middle bubble represents the central building of the North Campus. 
 The left bubble shows an aerial view of the Taicang Campus, and the 
 right bubble shows an aerial view of the South Campus. Keyboard 
 interactions can be used to control the bubble layers as well as to zoom 
 in and out. 
- Rotation bubbles: The rotating bubble spins around the campus 
+- Rotation bubbles: The rotating bubble spins around the campus 
 bubbles, and as the bubble layers switch, the rotating bubble also 
 changes accordingly, providing a highlighting effect 
- Balloons: Using keyboard interactions, the balloons will be released 
+- Balloons: Using keyboard interactions, the balloons will be released 
 from the bottom of the card and continuously fly upwards.
 
 ## Instructions 
