@@ -1,10 +1,11 @@
 # Invitation-Card-for-the-2024-Xi-an-Jiaotong-Liverpool-University-Graduation-Ceremony
 
- <div style="display: flex; justify-content: center;">
+ <div style="display: flex; justify-content: center;">>
     <img src="fig/fig1.png" width="240" height="350" alt="fig1">
     <img src="fig/fig2.png" width="240" height="350" alt="fig2">
     <img src="fig/fig3.png" width="240" height="350" alt="fig3">
 </div>
+
 ## Design Description
 The invitation card is primarily themed in shades of purple, which is the 
 signature color of Xi'an Jiaotong-Liverpool University. It incorporates a 
